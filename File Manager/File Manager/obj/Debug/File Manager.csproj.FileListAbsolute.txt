@@ -11,3 +11,4 @@ C:\Users\0\source\repos\File Manager\File Manager\obj\Debug\File_Manager.Form2.r
 C:\Users\0\source\repos\File Manager\File Manager\obj\Debug\File_Manager.Form3.resources
 C:\Users\0\source\repos\File Manager\File Manager\obj\Debug\File_Manager.Form4.resources
 C:\Users\0\source\repos\File Manager\File Manager\obj\Debug\File_Manager.Form5.resources
+C:\Users\0\source\repos\File Manager\File Manager\obj\Debug\File_Manager.Form6.resources
